@@ -1,0 +1,41 @@
+body {
+  background-color: #D5F5E3;
+}
+.intro {
+  color: #F4A9EB;
+  font-style: italic;
+  font-size: 45px;
+  text-align: center;
+
+}
+h2.intro {
+  color: #3D1742;
+  font-size: 25px;
+}
+
+h3 {
+  font-size: 30px;
+  text-decoration: underline;
+}
+
+img {
+  width: 50%;
+}
+
+li {
+  list-style-type: none;
+}
+
+p.custom {
+  text-align: center;
+  background-color: #82E0AA;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+  border: solid purple;
+}
